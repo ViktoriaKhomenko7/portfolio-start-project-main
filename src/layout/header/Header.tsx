@@ -11,7 +11,6 @@ export const Header = () => {
             <StyledHeader>
                 <Logo/>
                 <Menu menuItems={items}/>
-                <Menu>Lol</Menu>
             </StyledHeader>
         </div>
     );
